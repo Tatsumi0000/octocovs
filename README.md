@@ -2,7 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
-| [k1LoW/octocov](https://github.com/k1LoW/octocov) | 50.7% | 1:0.5 | 29s | ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/time.svg)```</details> |
+| [Tatsumi0000/nemomemo](https://github.com/Tatsumi0000/nemomemo) | 25.3% | - | 2s | ![Tatsumi0000/nemomemo](https://raw.githubusercontent.com/Tatsumi0000/octocovs/main/badges/Tatsumi0000/nemomemo/coverage.svg) ![Tatsumi0000/nemomemo](https://raw.githubusercontent.com/Tatsumi0000/octocovs/main/badges/Tatsumi0000/nemomemo/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/Tatsumi0000/octocovs/main/badges/Tatsumi0000/nemomemo/coverage.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/Tatsumi0000/octocovs/main/badges/Tatsumi0000/nemomemo/time.svg)```</details> |
 
 ---
 
