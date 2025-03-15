@@ -2,6 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
+| [Tatsumi0000/nemomemo](https://github.com/Tatsumi0000/nemomemo) | 25.3% | - | 2s | ![Tatsumi0000/nemomemo](https://github.com/Tatsumi0000/octocovs/blob/main/badges/Tatsumi0000/nemomemo/coverage.svg?raw=true) ![Tatsumi0000/nemomemo](https://github.com/Tatsumi0000/octocovs/blob/main/badges/Tatsumi0000/nemomemo/time.svg?raw=true) <details><summary>Copy status badge markdown</summary>```![Coverage](https://github.com/Tatsumi0000/octocovs/blob/main/badges/Tatsumi0000/nemomemo/coverage.svg?raw=true)```<br>```![Test Execution Time](https://github.com/Tatsumi0000/octocovs/blob/main/badges/Tatsumi0000/nemomemo/time.svg?raw=true)```</details> |
 
 ---
 
